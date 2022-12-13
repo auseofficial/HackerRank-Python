@@ -1,4 +1,3 @@
-
 def print_full_name(a, b):
 
     # What's Your Name? in Python - HackerRank Solution START
